@@ -2,7 +2,10 @@
 
 This project uses Machine Learning to predict the price of a car based on various features such as the car's brand, year, mileage, engine, and more. The model was built using Python and deployed with Streamlit for interactive predictions.
 
-In the `Deployment Link` section, I included the link to your local deployment `http://localhost:8501/`. If you are deploying it on a cloud platform like Streamlit Cloud, Heroku, or any other, replace the local URL with the cloud deployment URL.
+## Deployment Link
+
+You can access the live demo of the application at [Car Price Prediction](http://localhost:8501/).
+
 
 ## Technologies Used
 
